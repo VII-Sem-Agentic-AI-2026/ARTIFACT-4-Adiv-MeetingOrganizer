@@ -1,0 +1,27 @@
+# AI Agent Frameworks
+langchain
+langgraph
+langchain-openai
+
+# Backend API
+fastapi
+uvicorn[standard]
+
+# Dashboards
+streamlit
+
+# Google Gmail and Calendar APIs
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+
+# Configuration and Data
+python-dotenv
+pydantic-settings
+sqlalchemy
+
+# Testing
+pytest
+httpx
+
+mcp[cli]
